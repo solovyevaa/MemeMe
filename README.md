@@ -10,5 +10,6 @@ https://github.com/solovyevaa/MemeMe
 
 ## Specifications
 1. It's possible that table view isn't reload for the first time. Just move to collection view and back;
-2. The app works both portrait and landscape;
-3. 
+2. The app is developed both for iPhone and iPad (v.13.0);
+3. The app works both portrait and landscape;
+4. The app is required Camera access.
