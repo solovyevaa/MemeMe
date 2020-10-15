@@ -9,5 +9,6 @@ MemeMe also temporarily stores sent memes which users can browse in a table or a
 https://github.com/solovyevaa/MemeMe
 
 ## Specifications
-1. It's possible that table view isn't reload for the first time. Just move to collection view and back.
-2. The app works both portrait and landscape.
+1. It's possible that table view isn't reload for the first time. Just move to collection view and back;
+2. The app works both portrait and landscape;
+3. 
